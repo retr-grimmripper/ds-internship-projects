@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔬 Data Science Internship Projects
 
 A collection of four end-to-end data science projects covering 
@@ -17,3 +18,7 @@ Python · Scikit-learn · Pandas · Matplotlib · Seaborn · NumPy
 
 ## Setup
 pip install -r requirements.txt
+=======
+# ds-internship-projects
+Data Science Internship: Iris Classification, Unemployment Analysis, Car Price Prediction &amp; Sales Forecasting
+>>>>>>> 5b6ffe1ff6d611653c24916e2344ca76b72536db
